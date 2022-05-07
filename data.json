@@ -57,7 +57,7 @@
         "link": "https://archive.org/details/collectiondesmm37fragoog"
       }
     ],
-    "katki": "Şafak Efe",
+    "katki": ["Şafak Efe"]
   },
 
   {
@@ -99,7 +99,7 @@
         "link": "http://www.worldcat.org/oclc/1047902064"
       },
       {
-         "durum": "FR Tamamen",
+        "durum": "FR Tamamen",
         "link": "http://www.worldcat.org/oclc/4010615"
       },
       {
@@ -107,7 +107,7 @@
         "link": "http://www.worldcat.org/oclc/470704158"
       }
     ],
-    "katki": "Şafak Efe",
+    "katki": ["Şafak Efe"]
   },
 
   {
@@ -133,7 +133,7 @@
         "link": "http://www.worldcat.org/oclc/255902647"
       }
     ],
-    "katki": "Abdurrahman Onur Çalışır",
+    "katki": ["Abdurrahman Onur Çalışır"]
   },
 
   {
