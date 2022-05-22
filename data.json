@@ -10,7 +10,7 @@
     ],
     "eser": "Historia Ierosolimitana",
     "tur": "Kronik",
-    "periyod": "1095-1119",
+    "periyod": ["1095-1119"],
     "bolge": ["Anadolu", "Balkanlar", "Filistin", "Mısır", "Suriye"],
     "dil": "Latince",
     "edisyon": [
@@ -65,7 +65,7 @@
     "lang": [],
     "eser": "L'Estoire de la Guerre Sainte",
     "tur": "Şiir",
-    "periyod": "1189-1192",
+    "periyod": ["1189-1192"],
     "bolge": ["Filistin", "Suriye"],
     "dil": "Eski Fransızca",
     "edisyon": [
@@ -96,7 +96,7 @@
     "lang": [],
     "eser": "Aleksias / Aleksiad",
     "tur": "Kronik",
-    "periyod": "1095-1118",
+    "periyod": ["1095-1118"],
     "bolge": ["Anadolu", "Balkanlar", "Filistin", "Suriye"],
     "dil": "Eski Yunanca",
     "edisyon": [
@@ -196,7 +196,7 @@
     "lang": [],
     "eser": "Târîḫu’l-ʿAẓîmî",
     "tur": "Kronik",
-    "periyod": "1095-1143",
+    "periyod": ["1095-1143"],
     "bolge": ["Anadolu", "Balkanlar", "Filistin", "Mısır", "Suriye"],
     "dil": "Arapça",
     "edisyon": [
@@ -229,7 +229,7 @@
     ],
     "eser": "Historia Ierosolimitana",
     "tur": "Kronik",
-    "periyod": "1095-99",
+    "periyod": ["1095-99"],
     "bolge": ["Anadolu", "Balkanlar", "Filistin", "Suriye"],
     "dil": "Latince",
     "edisyon": [
