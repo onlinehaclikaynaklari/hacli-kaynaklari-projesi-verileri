@@ -253,5 +253,130 @@
       }
     ],
     "katki": ["Abdurrahman Onur Çalışır"]
+  },
+
+  {
+    "name": "Bar Ebroyo",
+    "lang": [
+      {
+        "eng": "Gregory Bar Habraeus",
+        "ar": "Ebü'l-Ferec İbnü'l-İbrî",
+      }
+    ],
+    "eser": "Makhtebhanūth zabhne",
+    "tur": "Kronik",
+    "periyod": ["1097-1286"],
+    "bolge": ["Anadolu", "Filistin", "Mısır", "Suriye"],
+    "dil": "K. Sür.",
+    "edisyon": [
+      {
+        "name": "Bedjan",
+        "link": "https://books.google.com.tr/books?id=zgAVAAAAYAAJ"
+      }
+    ],
+    "translate": [
+      {
+        "durum": "TR Kısmen A",
+        "link": "http://www.worldcat.org/oclc/984436456"
+      },
+      {
+        "durum": "TR Kısmen B",
+        "link": "http://www.worldcat.org/oclc/984493171"
+      },
+      {
+        "durum": "ING Tamamen A",
+        "link": "https://books.google.com.tr/books?id=DVcZAAAAIAAJ"
+      },
+      {
+        "durum": "ING Tamamen B",
+        "link": "https://books.google.com.tr/books?id=GRgDAAAAMAAJ"
+      },
+      {
+        "durum": "FR Tamamen",
+        "link": "http://www.worldcat.org/oclc/867393398"
+      }
+    ],
+    "katki": ["Abdurrahman Onur Çalışır"]
+  },
+  
+  {
+    "name": "Binyamin, Tudelalı",
+    "lang": [
+      {
+        "eng": "Benjamin of Tudela",
+        "fr": "Benjamin de Tudèle",
+        "de": "Benjamin von Tudela"
+      }
+    ],
+    "eser": "Masa’ot Binyamin / Seferha-Masa’ot",
+    "tur": "Seyahatname",
+    "periyod": ["1165-73"],
+    "bolge": ["Anadolu", "Filistin", "Mısır", "Suriye"],
+    "dil": "İbr.",
+    "edisyon": [
+      {
+        "name": "Asher",
+        "link": "https://archive.org/details/itineraryofrabb01benj"
+      },
+      {
+        "name": "Adler",
+        "link": "https://archive.org/details/the-itinerary-of-benjamin-of-tudela"
+      }
+    ],
+    "translate": [
+      {
+        "durum": "TR Tamamen,
+        "link": "http://www.worldcat.org/oclc/949573650"
+      },
+      {
+        "durum": "ING Tamamen A",
+        "link": "https://archive.org/details/itineraryofrabb01benj"
+      },
+      {
+        "durum": "ING Tamamen B",
+        "link": "https://archive.org/details/itineraryofrabb02ben"
+      },
+      {
+        "durum": "ING Tamamen",
+        "link": "https://archive.org/details/the-itinerary-of-benjamin-of-tudela"
+      },
+      {
+         "durum": "ING Tamamen",
+        "link": "http://www.worldcat.org/oclc/489730023"
+      },
+      { 
+        "durum": "FR Tamamen",
+        "link": "https://gallica.bnf.fr/ark:/12148/bpt6k6574508m"
+      },
+      { 
+        "durum": "FR Tamamen",
+        "link": "http://www.worldcat.org/oclc/470161741"
+      },
+      {
+        "durum": "ALM Kısmen,
+        "link": "http://www.worldcat.org/oclc/24143527"
+      },
+      {
+        "durum": "ALM Tamamen",
+        "link": "http://www.worldcat.org/oclc/32840956"
+      },
+      {
+        "durum": "ISP Tamamen",
+        "link": "http://www.worldcat.org/oclc/458416460"
+      },
+      {
+        "durum": "ISP Tamamen",
+        "link": "http://www.worldcat.org/oclc/34032882"
+      },
+      {
+         "durum": "IBR Tamamen",
+        "link": "http://www.worldcat.org/oclc/34032882"
+      },
+      {
+        "durum": "BASK Kısmen",
+        "link": "http://www.worldcat.org/oclc/34032882"
+      }
+    ],
+    "katki": ["Onuralp Çakır", "Abdurrahman Onur Çalışır"]
   }
 ]
