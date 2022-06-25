@@ -61,7 +61,7 @@
   },
 
   {
-        "name": "Ambroise",
+    "name": "Ambroise",
     "lang": [],
     "eser": "L'Estoire de la Guerre Sainte",
     "tur": "Şiir",
@@ -190,7 +190,7 @@
     ],
     "katki": ["Abdurrahman Onur Çalışır"]
   },
-  
+
   {
     "name": "Azîmî",
     "lang": [],
@@ -260,7 +260,7 @@
     "lang": [
       {
         "eng": "Gregory Bar Habraeus",
-        "ar": "Ebü'l-Ferec İbnü'l-İbrî",
+        "ar": "Ebü'l-Ferec İbnü'l-İbrî"
       }
     ],
     "eser": "Makhtebhanūth zabhne",
@@ -298,7 +298,7 @@
     ],
     "katki": ["Abdurrahman Onur Çalışır"]
   },
-  
+
   {
     "name": "Binyamin, Tudelalı",
     "lang": [
@@ -341,14 +341,14 @@
         "link": "https://archive.org/details/the-itinerary-of-benjamin-of-tudela"
       },
       {
-         "durum": "ING Tamamen",
+        "durum": "ING Tamamen",
         "link": "http://www.worldcat.org/oclc/489730023"
       },
-      { 
+      {
         "durum": "FR Tamamen",
         "link": "https://gallica.bnf.fr/ark:/12148/bpt6k6574508m"
       },
-      { 
+      {
         "durum": "FR Tamamen",
         "link": "http://www.worldcat.org/oclc/470161741"
       },
@@ -369,7 +369,7 @@
         "link": "http://www.worldcat.org/oclc/34032882"
       },
       {
-         "durum": "IBR Tamamen",
+        "durum": "IBR Tamamen",
         "link": "http://www.worldcat.org/oclc/34032882"
       },
       {
